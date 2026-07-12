@@ -1,148 +1,76 @@
-# 👋 Hi, I'm Nilesh Chothave
+# Hi 👋, I'm Nilesh Chothave
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Programming-Learner-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Languages-C%20%7C%20C%2B%2B%20%7C%20Java-orange?style=for-the-badge"/>
-</p>
+## 🚀 About Me
 
-<h3 align="center">
-  🚀 Passionate Programmer | 💻 Software Development Learner | 📚 Continuous Learner
-</h3>
+I am a passionate programming learner focused on improving my coding skills, problem-solving ability, and software development knowledge.
 
----
-
-## 👨‍💻 About Me
-
-Hello! I'm **Nilesh Chothave**.
-
-I am a programming enthusiast focused on building strong programming fundamentals, improving problem-solving skills, and learning software development concepts.
-
-Currently, I am exploring programming languages, Object-Oriented Programming, Data Structures, Algorithms, and practical project development.
+I enjoy learning new technologies, practicing programming concepts, and building projects to strengthen my development skills.
 
 ---
 
 ## 💻 Programming Languages
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/C-Programming-blue?style=for-the-badge&logo=c"/>
-
-<img src="https://img.shields.io/badge/C++-Programming-00599C?style=for-the-badge&logo=cplusplus"/>
-
-<img src="https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=java"/>
-
-</p>
+- C Programming
+- C++ Programming
+- Java Programming
 
 ---
 
-# 🚀 My Learning Journey
+## 🛠 Skills & Concepts
 
-### 🔷 C Programming
-
-Learning programming fundamentals, memory concepts, pointers, structures, and problem-solving.
-
-Repository:
-```
-C_Programming
-```
-
----
-
-### 🚀 C++ Programming
-
-Exploring Object-Oriented Programming, STL, competitive programming, and project development.
-
-Repository:
-```
-CPP_Programming
-```
-
----
-
-### ☕ Java Programming
-
-Learning Core Java concepts, OOP principles, and building programming logic.
-
-Repository:
-```
-Java_Programming
-```
-
----
-
-# 🛠️ Technical Skills
-
-### Programming
-- C
-- C++
-- Java
-
-### Concepts
+- Programming Fundamentals
+- Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
-- Object-Oriented Programming
 - Problem Solving
 - Logical Thinking
-- Clean Coding Practices
-
-### Tools
-- Git
-- GitHub
-- VS Code
+- Git & GitHub
 
 ---
 
-# 📂 Featured Repositories
+## 📂 My Repositories
 
-| Repository | Description |
-|------------|-------------|
-| 🔷 C_Programming | C programming fundamentals and practice programs |
-| 🚀 CPP_Programming | C++ concepts, OOP, STL and problem solving |
-| ☕ Java_Programming | Core Java learning and practice programs |
+### 🔹 C_Programming
 
----
+Contains my C programming practice programs, logic building exercises, and concept implementations.
 
-# 🎯 Current Goals
+### 🔹 CPP_Programming
 
-🚀 Improve Data Structures and Algorithms skills  
-🚀 Build real-world programming projects  
-🚀 Learn advanced software development concepts  
-🚀 Contribute to open-source projects  
+Contains my C++ practice programs, Object-Oriented Programming concepts, STL practice, and projects.
+
+### 🔹 Java_Programming
+
+Contains my Java learning journey, practice programs, and object-oriented programming concepts.
 
 ---
 
-# 📊 GitHub Stats
+## 🎯 Goals
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nilesh-chothave&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nilesh-chothave&theme=tokyonight"/>
-
-</p>
+- Improve Data Structures and Algorithms skills
+- Build real-world projects
+- Learn advanced programming concepts
+- Become a better software developer
 
 ---
 
-# 🤝 Connect With Me
+## 📚 Currently Learning
 
-<p align="center">
+- Advanced C++
+- Java Programming
+- Data Structures
+- Problem Solving
 
-<a href="https://github.com/nilesh-chothave">
-<img src="https://img.shields.io/badge/GitHub-nilesh--chothave-black?style=for-the-badge&logo=github"/>
-</a>
+---
 
-<a href="https://www.linkedin.com/in/nilesh-chothave">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+## 🤝 Connect With Me
 
-</p>
+GitHub:
+https://github.com/nilesh-chothave
+
+LinkedIn:
+https://www.linkedin.com/in/nilesh-chothave
 
 ---
 
 ## ⭐ Thanks for visiting my profile!
 
-> "Consistency is the key to becoming a better programmer." 🚀
+Keep Learning 🚀
