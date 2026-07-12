@@ -1,100 +1,148 @@
-# Hi 👋, I'm Nilesh Chothave
+# 👋 Hi, I'm Nilesh Chothave
 
-Backend Developer | Logic Builder | Open Source Learner
+<p align="center">
+  <img src="https://img.shields.io/badge/Programming-Learner-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Problem%20Solving-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Languages-C%20%7C%20C%2B%2B%20%7C%20Java-orange?style=for-the-badge"/>
+</p>
 
-[![](https://img.shields.io/badge/GitHub-nilesh--chothave-181717?style=for-the-badge&logo=github)](https://github.com/nilesh-chothave)
-
----
-
-## 🚀 About Me
-
-- 💻 Passionate about **Backend Development and System Programming**
-- ⚙️ Interested in **Object Oriented Programming, Databases and Scalable Systems**
-- 🧠 Building strong foundation in **Data Structures and Algorithms**
-- 🌱 Currently learning **Spring Boot and REST API Development**
-- 🗄️ Working with **MySQL, MongoDB and Oracle (PL/SQL)**
-- 📚 Always learning new technologies and improving coding skills
+<h3 align="center">
+  🚀 Passionate Programmer | 💻 Software Development Learner | 📚 Continuous Learner
+</h3>
 
 ---
 
-## 🛠 Tech Stack
+## 👨‍💻 About Me
 
-### Programming Languages
+Hello! I'm **Nilesh Chothave**.
 
-- Java
+I am a programming enthusiast focused on building strong programming fundamentals, improving problem-solving skills, and learning software development concepts.
+
+Currently, I am exploring programming languages, Object-Oriented Programming, Data Structures, Algorithms, and practical project development.
+
+---
+
+## 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C-Programming-blue?style=for-the-badge&logo=c"/>
+
+<img src="https://img.shields.io/badge/C++-Programming-00599C?style=for-the-badge&logo=cplusplus"/>
+
+<img src="https://img.shields.io/badge/Java-Programming-orange?style=for-the-badge&logo=java"/>
+
+</p>
+
+---
+
+# 🚀 My Learning Journey
+
+### 🔷 C Programming
+
+Learning programming fundamentals, memory concepts, pointers, structures, and problem-solving.
+
+Repository:
+```
+C_Programming
+```
+
+---
+
+### 🚀 C++ Programming
+
+Exploring Object-Oriented Programming, STL, competitive programming, and project development.
+
+Repository:
+```
+CPP_Programming
+```
+
+---
+
+### ☕ Java Programming
+
+Learning Core Java concepts, OOP principles, and building programming logic.
+
+Repository:
+```
+Java_Programming
+```
+
+---
+
+# 🛠️ Technical Skills
+
+### Programming
 - C
 - C++
-- JavaScript
+- Java
 
-### Backend Technologies
+### Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Problem Solving
+- Logical Thinking
+- Clean Coding Practices
 
-- Spring Boot
-- REST APIs
-
-### Databases
-
-- MySQL
-- MongoDB
-
-### Tools & Platforms
-
+### Tools
 - Git
 - GitHub
-- IntelliJ IDEA
-- Visual Studio Code
-- Windows 11
-
-### Core Computer Science Concepts
-
-- Data Structures & Algorithms
-- Object Oriented Programming
-- Operating Systems
-- Computer Networks
+- VS Code
 
 ---
 
-## 📚 GitHub Highlights
+# 📂 Featured Repositories
 
-- Implemented **50+ Logic Building programs** across C, C++, Java and JavaScript
-- Organized **structured repositories** with Practice, Competitive and Project folders
-- Consistent learner maintaining **daily coding practice**
-- Passionate about **clean code and strong fundamentals**
-
----
-
-## 📊 GitHub Stats
-
-[![](https://github-readme-stats.vercel.app/api?username=nilesh-chothave&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/nilesh-chothave)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh-chothave&layout=compact&theme=default&hide_border=true)](https://github.com/nilesh-chothave)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=nilesh-chothave&theme=default&hide_border=true)](https://github.com/nilesh-chothave)
+| Repository | Description |
+|------------|-------------|
+| 🔷 C_Programming | C programming fundamentals and practice programs |
+| 🚀 CPP_Programming | C++ concepts, OOP, STL and problem solving |
+| ☕ Java_Programming | Core Java learning and practice programs |
 
 ---
 
-## 🚀 Featured Projects
+# 🎯 Current Goals
 
-| Project | Tech | Description |
-| ------- | ---- | ----------- |
-| [Programming](https://github.com/nilesh-chothave/Programming) | C · C++ · Java · JavaScript | Complete programming journey — logic building, practice, competitive and project work across 4 languages |
-
----
-
-## 📌 Current Focus
-
-- Backend development with Spring Boot
-- Building REST APIs with Java
-- Improving DSA problem solving skills
-- Learning JavaScript for full-stack development
-- Preparing industry-level projects
+🚀 Improve Data Structures and Algorithms skills  
+🚀 Build real-world programming projects  
+🚀 Learn advanced software development concepts  
+🚀 Contribute to open-source projects  
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Stats
 
-[![](https://img.shields.io/badge/GitHub-nilesh--chothave-181717?style=for-the-badge&logo=github)](https://github.com/nilesh-chothave)
-[![](https://img.shields.io/badge/Gmail-nileshchothave2003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nileshchothave2003@gmail.com)
-[![](https://img.shields.io/badge/Instagram-nilesh.chothave__14-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nilesh.chothave_14)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nilesh-chothave&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nilesh-chothave&theme=tokyonight"/>
+
+</p>
 
 ---
 
-⭐ **If you like my work, consider giving it a star!**
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/nilesh-chothave">
+<img src="https://img.shields.io/badge/GitHub-nilesh--chothave-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nilesh-chothave">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+## ⭐ Thanks for visiting my profile!
+
+> "Consistency is the key to becoming a better programmer." 🚀
