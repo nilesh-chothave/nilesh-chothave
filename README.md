@@ -52,7 +52,6 @@ Programming Learner | Logic Builder | Software Development Enthusiast
 ---
 
 ## 📊 GitHub Stats
-
 [![](https://github-readme-stats.vercel.app/api?username=nilesh-chothave&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/nilesh-chothave)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh-chothave&layout=compact&theme=default&hide_border=true)](https://github.com/nilesh-chothave)
