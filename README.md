@@ -57,10 +57,8 @@ Programming Learner | Logic Builder | Software Development Enthusiast
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh-chothave&layout=compact&theme=default&hide_border=true)](https://github.com/nilesh-chothave)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nil)](https://git.io/streak-stats)
 
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ni" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nilesh-chothave" alt="GitHub Streak" /></a>
 
 ---
 
