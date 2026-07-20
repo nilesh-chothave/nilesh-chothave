@@ -58,7 +58,8 @@ Programming Learner | Logic Builder | Software Development Enthusiast
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh-chothave&layout=compact&theme=default&hide_border=true)](https://github.com/nilesh-chothave)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nilesh-chothave&theme=github-dark&hide_border=true)](https://github.com/nilesh-chothave)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ni" alt="GitHub Streak" /></a>
+i am adding this link but contribut green ch remove zhal prt 
 
 ---
 
